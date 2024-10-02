@@ -1,5 +1,5 @@
 import express, { Request, Response } from "express";
-import { handler } from "./Book.js"; // Ensure the correct path for import
+import { handler } from "./Book.js";
 
 const app = express();
 const port = 3000;
